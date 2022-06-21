@@ -30,7 +30,7 @@ Freshly graduated and looking for entry/grad level employment in tech.
    - 3D printed lighting products
    - I design, build and solder all items by hand
    - https://www.etsy.com/shop/LedFx/
- - 👨‍🏫 Freelance Python developer
+ - 👨‍🏫 Freelance developer, Python & Go
    - Worked directly with clients
    - Project planning and rapid prototyping
    - Top notch service!
