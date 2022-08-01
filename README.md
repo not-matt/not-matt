@@ -31,7 +31,7 @@ Freshly graduated and looking for entry/grad level employment in tech.
    - https://github.com/meyresearch
  - 🎵 LedFx
    - Software which creates live music visualisations on LED strips
-   - Lead backend developer
+   - Lead backend developer (Go), frontend experience (React+Typescript)
    - Open source collaboration with team of developers worldwide
    - 1K monthly downloads
    - https://ledfx.app
