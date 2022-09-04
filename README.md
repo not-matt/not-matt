@@ -1,8 +1,15 @@
 ### About Me
 
-Hello! I'm Matthew. 
+Hello! I'm Matthew. Recently graduated from Edinburgh and looking for employment in tech.
 
-Freshly graduated and looking for entry/grad level employment in tech.
+
+ 
+### I'm interested in working for startups related to
+ - LED / Audio / Music visualisation 
+ - Computational chemistry
+ - Financial tech
+ 
+**If you need a skilled and dedicated software developer, get in touch!**
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=not-matt&theme=light&show_icons=true&hide_border=false)
 
