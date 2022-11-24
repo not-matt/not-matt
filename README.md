@@ -52,7 +52,6 @@ Hello! I'm Matthew. Recently graduated from Edinburgh and looking for employment
  - 👨‍🏫 Freelance developer, Python & Go
    - Worked directly with clients
    - Project planning and rapid prototyping
-   - Top notch service!
    - https://www.upwork.com/freelancers/~0164216aa4c6fd975f 
 
 ### Contact
