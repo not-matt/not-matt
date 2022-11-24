@@ -4,7 +4,7 @@ Hello! I'm Matthew. Recently graduated from Edinburgh and looking for employment
 
 
  
-### I'm interested in working for startups related to
+### I'm interested in working for companies related to
  - LED / Audio / Music visualisation 
  - Computational chemistry
  - Financial tech
