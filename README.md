@@ -44,6 +44,7 @@ Hello! I'm Matthew. Recently graduated from University of Edinburgh and looking 
    - Open source collaboration with team of developers worldwide
    - 2K monthly downloads
    - https://ledfx.app
+   - Check out my latest work, [LedFx V3](https://github.com/LedFx/ledfx_v3)
  - 🛒 LedFx Store
    - Owner of the LedFx Store
    - 3D printed lighting products
