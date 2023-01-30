@@ -1,6 +1,6 @@
 ### About Me
 
-Hello! I'm Matthew. Recently graduated from Edinburgh and looking for employment in tech.
+Hello! I'm Matthew. Recently graduated from University of Edinburgh and looking for employment in tech.
 
 
  
