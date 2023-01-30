@@ -40,9 +40,9 @@ Hello! I'm Matthew. Recently graduated from Edinburgh and looking for employment
    - https://github.com/meyresearch
  - 🎵 LedFx
    - Software which creates live music visualisations on LED strips
-   - Lead backend developer (Go), frontend experience (React+Typescript)
+   - Lead backend developer (Python, Go), frontend experience (React, Typescript)
    - Open source collaboration with team of developers worldwide
-   - 1K monthly downloads
+   - 2K monthly downloads
    - https://ledfx.app
  - 🛒 LedFx Store
    - Owner of the LedFx Store
