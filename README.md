@@ -1,23 +1,16 @@
 ### About Me
 
-Hello! I'm Matthew. Recently graduated from University of Edinburgh and looking for employment in tech.
+Hello! I'm Matthew. 
 
-
- 
-### I'm interested in working for companies related to
- - LED / Audio / Music visualisation 
- - Computational chemistry
- - Financial tech
- 
-**If you need a skilled and dedicated software developer, get in touch!**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=not-matt&theme=light&show_icons=true&hide_border=false)
+ - I'm good at LED / Audio / Music visualisation
+ - Broad technical skillset across computing and electronics
+ - Creative and ambitious software engineer
 
 ### Education
 
  - 🎓 University of Edinburgh, Master of Chemistry (Hons) 
  - 🔬 STEM background; A Levels in Maths, Chemistry, Physics 
- - 👨‍💻 Self taught software developer
+ - 👨‍💻 Self taught software engineer
 
 ### Skills & Experience
 
